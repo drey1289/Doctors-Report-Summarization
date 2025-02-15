@@ -55,7 +55,7 @@ To execute the code following steps need to be done:
 
 🔹 Results:
 
-After doing all the evaluation steps, it is found that T5 Largewithassessment andsubjective section isgivingabetter ROUGE-L score while BART-base withAssessment gives a betterBert-Score.
+After doing all the evaluation steps, it is found that T5-Large with assessment and subjective section is giving a better ROUGE-L score while BART-base with Assessment gives a better Bert-Score.
 
 🔹 Future Strategy:
 
